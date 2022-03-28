@@ -43,7 +43,6 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://bikeindex.org:443/api/v3/search",
   "devDependencies": {
     "@types/styled-components": "^5.1.24"
   }
